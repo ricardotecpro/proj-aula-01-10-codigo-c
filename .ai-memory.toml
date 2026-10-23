@@ -1,0 +1,3 @@
+workspace = "default"
+project = "proj-aula-01-10-codigo-c"
+project_strategy = "repo-root"
